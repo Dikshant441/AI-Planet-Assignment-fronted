@@ -46,7 +46,7 @@ The Upcoming hackathons card should have a timer that will show when it will sta
 
 ##  Instructions on How to Run/Start the Project on a Local Server
 
-1. Clone the repo : Go to the root folder
+1. Clone the repo or download Zip file : Go to the root folder
    ```sh
    git clone https://github.com/Dikshant441/AI-Planet-Assignment-fronteng.git
    ```
@@ -62,10 +62,7 @@ The Upcoming hackathons card should have a timer that will show when it will sta
     ```
 4. #### Open your browser and navigate to:
      ```bash
-    http://localhost:5173
+    http://localhost:3000/hackathon
     ```
-5. #### Open your browser and navigate to:
-     ```bash
-    
-    ```
+
 ## For any queries related to the project, contact at singhdikshant200@gmail.com
